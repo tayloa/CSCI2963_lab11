@@ -18,5 +18,5 @@ I observed the TitanPad chat and found it very interesting. The users I observed
 ##### Discuss the HCI issues in software that embodies human intention.  
   - In new instances of HCI, there has been a need for cognitive science. This is because users can have differnt goals and plans when using software. This can be seen with the addition of vocal recognition software. Users can now command computers through audio cues, but this leads to the necessity of analyting the user's tone and phrasing. Developers would have to find a way to translate human diction to code in order to make the computer return the users desired request.
 ## Part 3
-#### Reflection on talk anf articles:
+#### Reflection on talk and articles:
 https://docs.google.com/document/d/1h1IGh54gZDxoyYikQ13xzxsQ5FQnSlXpsxClZkJjBjs/edit?usp=sharing
