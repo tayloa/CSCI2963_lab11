@@ -2,7 +2,7 @@
 
 ## Part 1
 #### Part 2 and Part 3
-I ended up up using Kiwi. I joined the channel, but I saw no activity. Observing the Slack channel, a majority of the chat was notifications of upcoming Hackathons, events in the CS department, or project schedules.
+I ended up up using Kiwi. I joined the channel, but I saw no activity. Observing the Slack channel, a majority of the chat was notifications of upcoming Hackathons, events in the CS department, and presentation schedules.
 
 ## Part 2
 #### Part 2
