@@ -16,3 +16,6 @@ I observed the TitanPad chat and found it very interesting. The users I observed
   - Issues with collaborative software include non-verbal communication, access, and productivity. The lack of non-verbal communication in groupware can lead to more misunderstangs. This can be quickly solved with video communication technology. As the scale of a collaborative process increases, the risk of data getting in the wrong hands increases. To avoid this problem a formal agreement can be made between the parties involved. An increase in scale can also hinder progress. Some tasks are better done outside of groupware than in groupware. Not everyone will have the same schedule.
 ##### Discuss the HCI issues in software that embodies human intention.  
   -
+## Part 3
+#### Reflection on talk anf articles:
+https://docs.google.com/document/d/1h1IGh54gZDxoyYikQ13xzxsQ5FQnSlXpsxClZkJjBjs/edit?usp=sharing
